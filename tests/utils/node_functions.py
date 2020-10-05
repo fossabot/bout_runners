@@ -83,6 +83,7 @@ def node_one(
 
     """
     # Node 1 completed before node 2
+    raise RuntimeError(sorted(Path(bout_run_directory_node_2).parent.glob("**/*")))
     assert not Path(bout_run_directory_node_2).joinpath("BOUT.settings").is_file()
     with Path(pre_and_post_directory).joinpath("1.txt").open("w") as file:
         file.write("Complete")
