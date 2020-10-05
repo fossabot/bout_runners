@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCELMA-project%2Fbout_runners.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FCELMA-project%2Fbout_runners?ref=badge_shield)
+
 |bout_runners|
 
 .. |bout_runners| image:: https://raw.githubusercontent.com/CELMA-project/bout_runners/master/docs/source/_static/logo_full.svg
@@ -212,3 +214,6 @@ Acknowledgments
 .. _documentation: https://bout-runners.readthedocs.io/en/latest/
 .. |BOUT++| replace:: ``BOUT++``
 .. _BOUT++: http://boutproject.github.io
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCELMA-project%2Fbout_runners.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCELMA-project%2Fbout_runners?ref=badge_large)
